@@ -1,8 +1,8 @@
-# Your first TeachBook using the GitHub template
+# What is the SCI TUTOR:
 
-The template allows you to start your own TeachBook and hosting that TeachBook online without knowledge on Git, the Jupyter book / TeachBook package, python, conda and webservers. It doesn't provide full documentation on the functionalities. Please look at our manual (https://teachbooks.io/manual) to find more about that!
+This is a template from TEACHBOOKS on github! I'm just a college student trying to help out if you want to make your own tect book too please do: Please look at the manual (https://teachbooks.io/manual) I hope you enjoy and this helps you on your journey!
 
-## How to get started
+## Contents
 
 How to use the template is demonstrated in the figure below, all steps are elaborated on in the following step-by-step tutorial.
 
