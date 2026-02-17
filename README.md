@@ -7,7 +7,7 @@ This is a template from TEACHBOOKS on github! I'm just a college student trying 
 ### BIOLOGY (BASIC)
 #### Biology 1.1
 ---
-[### Chemistry] (path/to/chapters.md) 
+[### Chemistry](tagert "chapters.md") 
 #### Chemistry 1.1
 
 ## Features
